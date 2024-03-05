@@ -1,0 +1,23 @@
+.bg-container{
+    background-color: #f1f5f8;
+    background-size: cover;
+    height:100vh;
+   
+}
+.heading{
+    font-family:"Roboto";
+    font-size:40px;
+    font-weight:bold;
+    padding:30px;
+    text-align:center;
+}
+.number-color{
+    color:#c20a72;
+    font-family:'Roboto';
+    font-size:40px;
+    font-weight:bold;
+}
+.paragraph{
+    font-family:'Roboto';
+    font-size:20px;
+}
